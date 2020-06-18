@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>José Manuel Gómez Rivera on Nombre Alumno</title>
+    <title>Taller Ciudad y Espacio 2020 on Nombre Alumno</title>
     <link>https://taller-ciudad-espacio2020.github.io/docs/</link>
-    <description>Recent content in José Manuel Gómez Rivera on Nombre Alumno</description>
+    <description>Recent content in Taller Ciudad y Espacio 2020 on Nombre Alumno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://taller-ciudad-espacio2020.github.io/docs/instalar-tema/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
     </item>
     
     <item>
@@ -26,16 +26,16 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://taller-ciudad-espacio2020.github.io/docs/configuracion/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
     </item>
     
     <item>
-      <title>Ejemplo Post 1</title>
+      <title>Ejemplo Shortcodes</title>
       <link>https://taller-ciudad-espacio2020.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://taller-ciudad-espacio2020.github.io/docs/ejemplo/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://taller-ciudad-espacio2020.github.io/docs/markdown/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>

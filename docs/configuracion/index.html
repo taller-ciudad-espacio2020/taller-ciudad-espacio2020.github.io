@@ -99,7 +99,7 @@
     </li>
     
     <li class="">
-      <a href="https://taller-ciudad-espacio2020.github.io/docs/ejemplo/">Ejemplo Post 1</a>
+      <a href="https://taller-ciudad-espacio2020.github.io/docs/ejemplo/">Ejemplo Shortcodes</a>
     </li>
     
     <li class="">
@@ -120,32 +120,32 @@
 <h1 class="title">Configuración</h1>
 <div class="content ">
   <!-- raw HTML omitted -->
-<h2 id="syntax-highlighting">Syntax Highlighting</h2>
-<p>Whisper uses the in-built code highlighting that ships with hugo. <a href="https://gohugo.io/content-management/syntax-highlighting/">https://gohugo.io/content-management/syntax-highlighting/</a></p>
-<p>You can insert code snippets in any markdown file by using standard code fences syntax ie:</p>
+<h2 id="highlighting-de-código">Highlighting de Código</h2>
+<p>Este tema utiliza el resaltado de código incorporado que se incluye con Hugo. <a href="https://gohugo.io/content-management/syntax-highlighting/">https://gohugo.io/content-management/syntax-highlighting/</a></p>
+<p>Puede insertar fragmentos de código en cualquier Markdown utilizando la sintaxis de highlighting, es decir:</p>
 <div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">```
-insert code here
+insertar código acá
 ```
-</code></pre></div><p>You can specify the langauge by adding a declaration after the backticks</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">```javascript
-insert code here
+</code></pre></div><p>Puede especificar el lenguaje de programación agregando una declaración después de los backticks</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">```html
+insertar código acá
 ```
-</code></pre></div><h3 id="pygments-options">Pygments Options</h3>
-<p>The following code highlighting options are configured in the <code>config.toml</code></p>
+</code></pre></div><h3 id="opciones-de-resaltado-de-código">Opciones de resaltado de código</h3>
+<p>Las opciones de resaltado de código se configuran en <code>config.toml</code></p>
 <div class="highlight"><pre class="chroma"><code class="language-toml" data-lang="toml"><span class="nx">pygmentsCodeFences</span> <span class="p">=</span> <span class="kc">true</span>
 <span class="nx">pygmentsCodefencesGuessSyntax</span> <span class="p">=</span> <span class="kc">true</span>
 <span class="nx">pygmentsUseClasses</span> <span class="p">=</span> <span class="kc">true</span>
-</code></pre></div><h2 id="main-menu">Main menu</h2>
-<p>Configure the main menu by editing the <code>config.toml</code></p>
+</code></pre></div><h2 id="menú-principal">Menú principal</h2>
+<p>Configure el menú principal editando el <code>config.toml</code></p>
 <div class="highlight"><pre class="chroma"><code class="language-toml" data-lang="toml"><span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
-<span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Inicio&#34;</span>
-<span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/&#34;</span>
-<span class="nx">weight</span> <span class="p">=</span> <span class="mi">1</span>
+    <span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Inicio&#34;</span>
+    <span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/&#34;</span>
+    <span class="nx">weight</span> <span class="p">=</span> <span class="mi">1</span>
 
 <span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
-<span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Documentación&#34;</span>
-<span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/docs/&#34;</span>
-<span class="nx">weight</span> <span class="p">=</span> <span class="mi">2</span>
+    <span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Documentación&#34;</span>
+    <span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/docs/&#34;</span>
+    <span class="nx">weight</span> <span class="p">=</span> <span class="mi">2</span>
 </code></pre></div>
 </div>
 </div>
