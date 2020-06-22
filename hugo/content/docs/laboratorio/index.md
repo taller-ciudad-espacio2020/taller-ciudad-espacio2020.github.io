@@ -35,8 +35,9 @@ En las Regiones del Maule, de Ñuble, del Biobío y de La Araucanía se vive una
 ![Producción Agrícola](/img/produccion-agricola.png)
 
 En este contexto, es necesario incrementar la productividad de la agricultura familiar para la subsistencia y alimentación sana de grupos vulnerables, y aumentar la resiliencia a crisis económicas o climáticas. Además, debido al proceso de desertificación generado por el calentamiento global, gran parte de la actividad agrícola del centro del país podría desplazarse a estas regiones.
-
+ 
 En suma, las escuelas rurales ubicadas en estas regiones presentan una fuerte necesidad económica y de capacitación y, al mismo tiempo, un gran potencial ecosistémico para aprovechar mejoras de productividad agrícola. 
+
 
 ## Proyecto
 
