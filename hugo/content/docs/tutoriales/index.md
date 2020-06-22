@@ -12,7 +12,7 @@ Aquí encontrarás los video tutoriales de apoyo para los encargos del Taller Ci
 
 Tutorial sobre la instalación del framework Hugo en Windows
 
-{{< video-local src="Instalación_Hugo_TCyE-MID2020.mp4" >}}
+{{< video-local src="http://formbynumbers.com/img/Instalación_Hugo_TCyE-MID2020.mp4" >}}
 
 ##### Links: 
 
@@ -27,7 +27,7 @@ Tutorial sobre la instalación del framework Hugo en Windows
 
 Tutorial sobre la instalación del Tema en Windows
 
-{{< video-local src="Instalación_TemaTCyE-MID2020.mp4" >}}
+{{< video-local src="http://formbynumbers.com/img/Instalación_TemaTCyE-MID2020.mp4" >}}
 
 ##### Links: 
 
@@ -40,7 +40,7 @@ Tutorial sobre la instalación del Tema en Windows
 
 Tutorial sobre la documentación y creación de contenido web con Markdown en Hugo
 
-{{< video-local src="Introducción_MarkdownTCyE-MID2020.mp4" >}}
+{{< video-local src="http://formbynumbers.com/img/Introducción_MarkdownTCyE-MID2020.mp4" >}}
 
 ##### Links: 
 
