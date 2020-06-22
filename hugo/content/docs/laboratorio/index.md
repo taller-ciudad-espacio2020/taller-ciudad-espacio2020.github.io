@@ -1,10 +1,12 @@
 ---
-title: 'Laboratorio de fabricación digital y agrícola en escuelas rurales'
+title: 'Laboratorio FDA'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 1
-summary: Propuesta de desarrollo de un programa de educación técnica con implementación de laboratorios de fabricación en escuelas rurales.
+summary: Laboratorio de fabricación digital y agrícola en escuelas rurales.
 ---
+
+# Laboratorio de fabricación digital y agrícola en escuelas rurales
 
 La pandemia de Covid-19 está agudizando las desigualdades sociales de Chile y generando una crisis económica que provocará un aumento de la pobreza. Anticipando este escenario, proponemos desarrollar un programa de educación técnica con implementación de laboratorios de fabricación, con los siguientes objetivos:
 

@@ -8,9 +8,11 @@ summary: Video Tutoriales del curso Taller Ciudad y Espacio MID 2020.
 
 Aquí encontrarás los video tutoriales de apoyo para los encargos del Taller Ciudad y Espacio MID 2020. 
 
-## Tutorial: Instalación de Hugo Windows
+---
 
-Tutorial sobre la instalación del framework Hugo en Windows
+## Tutorial: Instalación de Hugo **Windows**
+
+Tutorial sobre la instalación del framework Hugo en **Windows**
 
 {{< video-local src="https://me-do.cl/static/images/Instalación_Hugo_TCyE-MID2020.mp4" >}}
 
@@ -20,6 +22,43 @@ Tutorial sobre la instalación del framework Hugo en Windows
 2. [Documentación Instalación](https://gohugo.io/getting-started/installing/). 
 3. [Documentación Chocolatey](https://chocolatey.org/install). 
 
+
+---
+
+## Tutorial: Instalación de Hugo **MacOS**
+
+Tutorial sobre la instalación del framework Hugo en **MacOS**
+
+{{< video-local src="https://me-do.cl/static/images/Instalación_Hugo_MAC_TCyE-MID2020.mp4" >}}
+
+
+##### Tutorial: 
+
+1. Intalar [Brew](https://brew.sh).
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
+2. Instalar [Hugo](https://gohugo.io/getting-started/quick-start/).
+
+```
+brew install hugo
+hugo version
+which hugo
+```
+
+3. Clonar Repositorio 
+
+[Repositorio](https://github.com/taller-ciudad-espacio2020/hugo-taller-espacio-ciudad).
+
+- ```ls``` - Listar contenido del directorio actual
+- ```cd``` - Cambiar directorio
+- ```cd ..``` - Subir un directorio (volver a la carpeta anterior)
+
+- ```git clone https://github.com/taller-ciudad-espacio2020/hugo-taller-espacio-ciudad```
+
+Terminal — ```hugo server``` 
+URL local — ```http://localhost:1313/```
 
 ---
 
