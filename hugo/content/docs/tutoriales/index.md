@@ -14,7 +14,7 @@ Aquí encontrarás los video tutoriales de apoyo para los encargos del Taller Ci
 
 Tutorial sobre la instalación del framework Hugo en **Windows**
 
-{{< video-local src="https://me-do.cl/static/images/Instalación_Hugo_TCyE-MID2020.mp4" >}}
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Instalaci%C3%B3n_Hugo_TCyE-MID2020.mp4" >}}
 
 ##### Links: 
 
@@ -29,7 +29,7 @@ Tutorial sobre la instalación del framework Hugo en **Windows**
 
 Tutorial sobre la instalación del framework Hugo en **MacOS**
 
-{{< video-local src="https://me-do.cl/static/images/Instalación_Hugo_MAC_TCyE-MID2020.mp4" >}}
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Instalaci%C3%B3n_Hugo_MAC_TCyE-MID2020.mp4" >}}
 
 
 ##### Tutorial: 
@@ -66,7 +66,7 @@ URL local — ```http://localhost:1313/```
 
 Tutorial sobre la instalación del Tema en Windows
 
-{{< video-local src="https://me-do.cl/static/images/Instalación_TemaTCyE-MID2020.mp4" >}}
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Instalaci%C3%B3n_TemaTCyE-MID2020.mp4" >}}
 
 ##### Links: 
 
@@ -79,7 +79,7 @@ Tutorial sobre la instalación del Tema en Windows
 
 Tutorial sobre la documentación y creación de contenido web con Markdown en Hugo
 
-{{< video-local src="https://me-do.cl/static/images/Introducción_MarkdownTCyE-MID2020.mp4" >}}
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Introducci%C3%B3n_MarkdownTCyE-MID2020.mp4" >}}
 
 ##### Links: 
 
