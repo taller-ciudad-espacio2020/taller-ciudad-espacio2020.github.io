@@ -51,12 +51,12 @@ summary: Uso de los Shortcodes para agregar contenido en el sitio de documentaci
 
 ### Agregar Video Local MP4
 
-{{< video-local src="video.mp4" >}}
+{{< video-local src="/img/video.mp4" >}}
 
 ##### Código `Video Local MP4` Markdown 
 
 ```
-{{</* video-local src="video.mp4" */>}}
+{{</* video-local src="/img/video.mp4" */>}}
 ```
 
 ##### Código `Video Local MP4` HTML Shortcode 
