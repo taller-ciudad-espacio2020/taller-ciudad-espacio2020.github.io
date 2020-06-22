@@ -16,6 +16,8 @@ La pandemia de Covid-19 está agudizando las desigualdades sociales de Chile y g
 
 Este programa se enfocará inicialmente en escuelas rurales de las regiones más pobres de Chile y que tienen un enorme potencial agrícola y de biodiversidad – Maule, Ñuble, Biobío y La Araucanía -, pero podría extenderse al resto del país. 
 
+![Agricultura](/img/agricultura.png)
+
 Como respuesta inmediata a una eventual crisis alimentaria post-pandemia, proponemos incrementar la productividad de la agricultura familiar, automatizando tareas repetitivas para reducir el tiempo dedicado a estas labores al menos en un orden de magnitud (1 vs 10). La agricultura familiar es una estrategia cooperativa y sostenible para reforzar la resiliencia territorial ante crisis económicas y climáticas. 
 
 Esto no se logra regalando cañas, tenemos que enseñar a pescar. 
