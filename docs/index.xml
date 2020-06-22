@@ -57,21 +57,12 @@
     </item>
     
     <item>
-      <title>Título de mi documento</title>
+      <title>Objetivos del Curso</title>
       <link>https://taller-ciudad-espacio2020.github.io/docs/objetivos/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://taller-ciudad-espacio2020.github.io/docs/objetivos/</guid>
       <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 1</title>
-      <link>https://taller-ciudad-espacio2020.github.io/docs/encargo1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://taller-ciudad-espacio2020.github.io/docs/encargo1/</guid>
-      <description>Documentación de mi encargo 1 sobre el taller ciudad espacio.</description>
     </item>
     
   </channel>
