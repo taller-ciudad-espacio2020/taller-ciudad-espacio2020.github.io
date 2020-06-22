@@ -1,6 +1,6 @@
 baseURL = "https://taller-ciudad-espacio2020.github.io/"
 languageCode = "en-us"
-title = "Nombre Alumno"
+title = "Taller Ciudad y Espacio"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
