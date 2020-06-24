@@ -49,6 +49,14 @@ Tutorial sobre subir el sitio web a su repositorio personal de GitHub Pages.
 
 ---
 
+## Tutorial: Edición de imágenes para web
+
+Tutorial sobre mejores prácticas respecto a la edición y preparación de imágenes para web
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/imagenesWeb.mp4" >}}
+
+---
+
 <!-- ## Tutorial: Uso Shortcode Tema Taller - Agregar Video Local MP4
 
 Tutorial referente al uso de Shortcode Agregar Video Local MP4 y formato de videos.
