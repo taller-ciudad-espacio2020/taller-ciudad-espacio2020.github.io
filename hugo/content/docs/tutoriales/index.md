@@ -1,5 +1,5 @@
 ---
-title: 'Tutoriales'
+title: 'Sesión 1 - Tutoriales'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 2
@@ -84,3 +84,57 @@ Tutorial sobre la documentación y creación de contenido web con Markdown en Hu
 ##### Links: 
 
 1. [Referencia Markdown](https://www.markdownguide.org/basic-syntax). 
+
+---
+
+## Tutorial: Introducción GitHub
+
+Tutorial de introducción al uso de GitHub.
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Introducci%C3%B3n_GitHub_TCyE-MID2020.mp4" >}}
+
+##### Links: 
+
+1. [GitHub](https://github.com/). 
+2. [Crear cuenta GitHub](https://github.com/join?source=login). 
+2. [Qué es GitHub](https://es.wikipedia.org/wiki/GitHub). 
+
+![GitHub](https://miro.medium.com/max/2560/0*7nU0dgfG1mU2K1U-.png)
+
+---
+
+## Tutorial: GitHub Pages, subir web a internet
+
+Tutorial sobre utilización de GitHub Pages para subir web a internet.
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/GitHub_Pages_TCyE-MID2020.mp4" >}}
+
+##### Links: 
+
+1. [GitHub Pages](https://pages.github.com/).
+2. [Documentación GitHub Pages](https://help.github.com/es/github/working-with-github-pages).
+
+![GitHub Pages](https://pages.github.com/images/user-repo@2x.png)
+
+---
+
+## Tutorial: Uso Shortcode Tema Taller - Agregar Video Local MP4
+
+Tutorial referente al uso de Shortcode Agregar Video Local MP4 y formato de videos.
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Agregar_Video_Local_TCyE-MID2020.mp4" >}}
+
+##### Links: 
+
+1. [HandBrake Convertidor Video](https://handbrake.fr/).
+2. [Referencia HTML Video](https://www.w3schools.com/html/html5_video.asp).
+
+---
+
+## Tutorial: Uso Shortcode Tema Taller - Agregar Galería Fotos Lightbox
+
+Tutorial referente al uso de Shortcode Agregar Galería Fotos Lightbox para láminas e imágenes.
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Utilizar_Galer%C3%ADa_Fotos_TCyE-MID2020.mp4" >}}
+
+---
