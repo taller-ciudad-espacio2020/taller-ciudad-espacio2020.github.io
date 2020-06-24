@@ -1,5 +1,5 @@
 ---
-title: 'Laboratorio FDA'
+title: 'Laboratorio FAD'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 1
@@ -20,7 +20,7 @@ Este programa se enfocará inicialmente en escuelas rurales de las regiones más
 
 Como respuesta inmediata a una eventual crisis alimentaria post-pandemia, proponemos incrementar la productividad de la agricultura familiar, automatizando tareas repetitivas para reducir el tiempo dedicado a estas labores al menos en un orden de magnitud (1 vs 10). La agricultura familiar es una estrategia cooperativa y sostenible para reforzar la resiliencia territorial ante crisis económicas y climáticas. 
 
-Esto no se logra regalando cañas, tenemos que enseñar a pescar. 
+**Esto no se logra regalando cañas, tenemos que enseñar a pescar.**
 
 En sus escuelas, los alumnos fabricarán sistemas de cultivo semiautomatizados que instalarán en sus casas. Para ello aprenderán técnicas avanzadas de fabricación digital – con madera, polímeros y cultivos - en forma intuitiva, fortaleciendo el capital humano local. A mediano y largo plazo esto contribuirá a desarrollar economías endógenas sinérgicas, mejorando la calidad de vida y del empleo. 
 
