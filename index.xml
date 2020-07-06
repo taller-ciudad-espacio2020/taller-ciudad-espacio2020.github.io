@@ -35,7 +35,25 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://taller-ciudad-espacio2020.github.io/docs/tutoriales-github/</guid>
-      <description>Video Tutoriales del curso Taller Ciudad y Espacio MID 2020.</description>
+      <description>Video Tutoriales de uso de GitHub y GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Sesión 3 - Entrega</title>
+      <link>https://taller-ciudad-espacio2020.github.io/docs/entrega1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://taller-ciudad-espacio2020.github.io/docs/entrega1/</guid>
+      <description>Sesión de presentaciones grupales. Entrega 1</description>
+    </item>
+    
+    <item>
+      <title>Sesión 4 - Tutoriales</title>
+      <link>https://taller-ciudad-espacio2020.github.io/docs/tutoriales-fusion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://taller-ciudad-espacio2020.github.io/docs/tutoriales-fusion/</guid>
+      <description>Video Tutoriales sobre uso de Fusion 360 y iframe Fusion Web.</description>
     </item>
     
   </channel>
