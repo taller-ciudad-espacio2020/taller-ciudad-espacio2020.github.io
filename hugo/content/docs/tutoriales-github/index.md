@@ -1,5 +1,5 @@
 ---
-title: 'Sesión 2 - Tutoriales'
+title: 'Sesión 2 - GitHub'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 3
