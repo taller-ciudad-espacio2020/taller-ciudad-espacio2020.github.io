@@ -29,6 +29,7 @@ Tutorial sobre patrones en base a fotografía y ciertas reglas como parámetros.
 
 ##### Imagen referencia:
 {{< boton-descargar src="tutorial-2.jpg" >}}
+
 ---
 
 ## Tutorial: iframe Fusion 360 en Web Hugo
