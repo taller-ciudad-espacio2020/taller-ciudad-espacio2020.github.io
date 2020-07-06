@@ -16,7 +16,8 @@ Tutorial de Introducción sketch en Fusion 360. Basado en el trazado de un dibuj
 
 {{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/sketch.mp4" >}}
 
-![Imagen 1](/img/tutorial-1.jpg)
+##### Imagen referencia:
+{{< boton-descargar src="tutorial-1.jpg" >}}
 
 ---
 
@@ -26,8 +27,8 @@ Tutorial sobre patrones en base a fotografía y ciertas reglas como parámetros.
 
 {{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/hidro.mp4" >}}
 
-![Imagen 2](/img/tutorial-2.jpg)
-
+##### Imagen referencia:
+{{< boton-descargar src="tutorial-2.jpg" >}}
 ---
 
 ## Tutorial: iframe Fusion 360 en Web Hugo
