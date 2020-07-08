@@ -62,6 +62,8 @@ La capacitación en el uso del laboratorio de fabricación se enfocará inicialm
 - Estructuras de cultivo: corte, tallado y ensamble de piezas de madera para construcción de caballetes para cultivo vertical (ahorra espacio y pesticidas) en hogares. 
 - Invernaderos: corte de piezas y ensamble de estructuras livianas y membranas para protección y aumento de productividad de cultivos. 
 
+![Diagramas](/img/diagrama.png)
+
 Estas líneas de producción se complementan para enseñar a construir y reproducir sistemas de cultivo de alta eficiencia en todos los hogares de una escuela. 
 
 ## Uso
