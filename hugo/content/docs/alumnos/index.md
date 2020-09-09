@@ -6,6 +6,18 @@ weight: 1
 summary: Recopilación de sitios personales alumnos del Taller Ciudad y Espacio.
 ---
 
+#### Listado de sitios web por grupos
+
+| Grupo| Nombre tema | Sitio web GitHub   | 
+| :--------------- | :-------------: | :----------------: | 
+|Grupo 1|Petorca Escasez Hídrica|[victoroi](https://victoroi.github.io/docs/examen/)|
+|Grupo 2|Algas|[jtlatrach](https://jtlatrach.github.io/docs/algas-en-chile/)|
+|Grupo 3|Restauración Espacio Público|[javialmanzar](https://javialmanzar.github.io/docs/examen/)|
+|Grupo 4|Campamento|[cotefoncea](https://cotefoncea.github.io/)|
+|Grupo 5|Chonchi: Primera milla|[macagutierrezr](https://macagutierrezr.github.io/docs/final/)|
+|Grupo 6|Laboratorio Agrícola|[isidoraricaurte](https://isidoraricaurte.github.io/docs/presentaciones/)|
+|Grupo 7|Ancud|[tomastapiataller](https://tomastapiataller.github.io/docs/examen/)|
+
 #### Listado de sitios web GitHub alumnos
 
 
